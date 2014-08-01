@@ -12,7 +12,6 @@
     	
 	$pageKeywords	= "Eclipse, EASE, Scripting";
     $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ease/css/style.css"/>' . "\n\t");
-    $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ease/css/style2.css"/>' . "\n\t");
     $App->SetGoogleAnalyticsTrackingCode("UA-53416191-1");
 #    $App->setOGDescription('Jetty is a highly scalable modular servlet engine and http server that natively supports many modern protocols like SPDY and WebSockets.');
 #    $App->setOGImage('http://www.eclipse.org/jetty/images/jetty-logo-80x22.png');
