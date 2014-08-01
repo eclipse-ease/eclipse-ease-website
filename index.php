@@ -14,7 +14,7 @@
 <div id="midcolumn">
 
 
-<a class="button" href="_">
+<a class="button" href="/ease/support/">
 	<span class="fa-stack fa-3x icon">
   		<i class="fa fa-square-o fa-stack-2x"></i>
   		<i class="fa fa-cogs fa-stack-1x"></i>
@@ -25,7 +25,7 @@
   	</span>
 </a>
 
-<a class="button" href="_">
+<a class="button" href="/ease/download/">
 	<span class="fa-stack fa-3x icon">
   		<i class="fa fa-square-o fa-stack-2x"></i>
   		<i class="fa fa-download fa-stack-1x"></i>
@@ -36,7 +36,7 @@
   	</span>
 </a>
 <br/>
-<a class="button" href="_">
+<a class="button" href="/ease/documentation/">
 	<span class="fa-stack fa-3x icon">
   		<i class="fa fa-square-o fa-stack-2x"></i>
   		<i class="fa fa-mortar-board fa-stack-1x"></i>
@@ -47,7 +47,7 @@
   	</span>
 </a>
 
-<a class="button" href="_">
+<a class="button" href="/ease/developers/">
 	<span class="fa-stack fa-3x icon">
   		<i class="fa fa-square-o fa-stack-2x"></i>
   		<i class="fa fa-comments-o fa-stack-1x"></i>
