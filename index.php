@@ -3,11 +3,9 @@
 	$pageKeywords	= "Eclipse, EASE, Scripting";
 	$pageAuthor		= "Christian Pontesegger";
 
-	# provide incubation link	
-	$html = $incubation;
 	
 	# provide the page content
-	$html .= <<<EOHTML
+	$html = <<<EOHTML
 
 <div id="bigbuttons">
 	<h3>Primary Links</h3>
@@ -44,26 +42,19 @@
 
 <div id="rightcolumn">
 	<div class="project_state">
-		<a class="incubating" href="http://www.eclipse.org/projects/what-is-incubation.php"></a>
-	</div>
-	
-	<h3>Committers</h3>
-	<ul>
-		<li>Christian Pontesegger</li>
-		<li>Arthur Daussy (<a href="http://www.obeo.fr/">OBEO</a>)</li>
-	</ul>		
+		<a class="incubating" href="http://www.eclipse.org/projects/what-is-incubation.php"><img src="/images/egg-incubation.png" border="0" width=70 alt="Incubation" /></a>
+	</div>	
 </div>
 
 
 <div id="rightcolumn">
 	<div class="sideitem">
-		<h6>The June 2012 Release is Available!</h6>
+		<h6>Committers</h6>
+		
 		<ul>
-			<li><a href="http://download.eclipse.org/e4/downloads/drops/R-0.12-201206131100/index.html">Download it</a></li>
-   		</ul>
-
-  		Note that several e4 components graduated into the Eclipse Platform project to
-   		produce the <a href="http://www.eclipse.org/eclipse4">Eclipse 4</a> stream of releases.
+			<li>Christian Pontesegger</li>
+			<li>Arthur Daussy (<a href="http://www.obeo.fr/">OBEO</a>)</li>
+		</ul>		
 	</div>
 </div>
 				
@@ -71,5 +62,5 @@ EOHTML;
 	
 	
 	# Generate the web page
-	$App->generatePage($theme, $Menu, null, $pageAuthor, $pageKeywords, $pageTitle, $html);
+	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>

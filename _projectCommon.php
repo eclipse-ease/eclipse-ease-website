@@ -13,8 +13,8 @@
     	
 	# global settings
 	$pageKeywords	= "Eclipse, EASE, Scripting";
-    # $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ease/css/style.css"/>' . "\n\t");
-    # $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ease/css/style2.css"/>' . "\n\t");
+    $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ease/css/style.css"/>' . "\n\t");
+    $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ease/css/style2.css"/>' . "\n\t");
     $App->SetGoogleAnalyticsTrackingCode("UA-53416191-1");
 
 	
