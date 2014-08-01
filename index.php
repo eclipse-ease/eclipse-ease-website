@@ -28,11 +28,7 @@
 {$incubation}
 
 <div id="rightcolumn">
-	<div class="sideitem">
-		<h6>News</h6>
-
-		<p>We are alive!</p>		
-	</div>
+	{file_get_contents('_news.html');}
 </div>
 				
 EOHTML;

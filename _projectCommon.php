@@ -49,7 +49,6 @@
 	$Nav->addCustomNav("Contribute",	"http://wiki.eclipse.org/EASE/Contributor_Guide", "_self", 3);
 	$Nav->addCustomNav("Report Bug",	"https://bugs.eclipse.org/bugs/enter_bug.cgi?product=EASE&amp;rep_platform=All&amp;op_sys=All", "_self", 3);
 	
-	$Nav->addNavSeparator('<img style="text-align: center;" src="/images/egg-incubation.png" border="0" width="98" height="128" alt="Incubation" />',	"/projects/what-is-incubation.php");
 	
 	# --------------------------------------------------------------------------------
 	# add incubation logo code (to be implemented on each page)
