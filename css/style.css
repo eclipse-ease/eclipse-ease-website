@@ -25,5 +25,5 @@ main #rightcolumn {
 }
 
 ul.nobullet {
-	
+	list-style-type: none;
 }

@@ -28,22 +28,22 @@
 
 <div id="rightcolumn">
 	<a class="btn btn-block btn-warning sidebutton" href="/ease/download/" title="Update Site, Script Engines">
-    	<i class="fa fa-download icon"></i>
+    	<i class="fa fa-fw fa-download icon"></i>
      	Download EASE
 	</a>
 
 	<a class="btn btn-block btn-primary sidebutton" href="/ease/documentation/" title="Tutorials, Examples, API">
-    	<i class="fa fa-mortar-board icon"></i>
+    	<i class="fa fa-fw fa-mortar-board icon"></i>
      	Documentation
 	</a>
 
 	<a class="btn btn-block btn-primary sidebutton" href="/ease/support/" title="Forums, Bug Tracker, Mailing List">
-    	<i class="fa fa-cogs icon"></i>
+    	<i class="fa fa-fw fa-cogs icon"></i>
      	Support
 	</a>
 
 	<a class="btn btn-block btn-primary sidebutton" href="/ease/developers" title="Contributor Guide, Wiki, Mailing List">
-    	<i class="fa fa-comments-o icon"></i>
+    	<i class="fa fa-fw fa-comments-o icon"></i>
      	Developers
 	</a>
 </div>
