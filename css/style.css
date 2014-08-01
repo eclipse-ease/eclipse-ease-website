@@ -4,15 +4,15 @@
 }
 
 #midcolumn {
-	width: 730px;
+	max-width: 730px;
 	padding: 0 10px 10px 10px;
 }
 
 main #rightcolumn {
-	width: 220px;
+	max-width: 220px;
 }
 
-.button {
+.sidebutton {
 	
 }
 
