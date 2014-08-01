@@ -4,10 +4,10 @@
 }
 
 #midcolumn {
-	width: 650px;
+	width: 730px;
 	padding: 0 10px 10px 10px;
 }
 
-#rightcolumn {
-	width: 300px;
+main #rightcolumn {
+	width: 220px;
 }
