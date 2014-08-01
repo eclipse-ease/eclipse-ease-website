@@ -5,6 +5,8 @@
 
 	
 	# provide the page content
+	$news = file_get_contents('_news.html');
+	
 	$html = <<<EOHTML
 
 <div id="midcolumn">
@@ -28,7 +30,7 @@
 {$incubation}
 
 <div id="rightcolumn">
-	{file_get_contents('_news.html');}
+	{$news}
 </div>
 				
 EOHTML;
