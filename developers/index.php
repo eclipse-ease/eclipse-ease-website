@@ -12,7 +12,7 @@
 		<ul>
 			<li><a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.core">org.eclipse.ease.core</a>
 				- Core framework and script engines (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.core.git/">browse code</a>)</li>
-			<li><b><a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.scripts">org.eclipse.ease.scripts</a></b>
+			<li><a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.scripts">org.eclipse.ease.scripts</a>
 				- Example scripts (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/">browse code</a>)</li>
 		</ul>
 	
