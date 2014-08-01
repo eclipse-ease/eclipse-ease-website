@@ -14,7 +14,6 @@
 <div id="midcolumn">
 
 
-<table>
 <a class="button" href="_">
 	<span class="fa-stack fa-3x icon">
   		<i class="fa fa-square-o fa-stack-2x"></i>
@@ -36,7 +35,7 @@
 	  	 Update Site, Script Engines
   	</span>
 </a>
-
+<br/>
 <a class="button" href="_">
 	<span class="fa-stack fa-3x icon">
   		<i class="fa fa-square-o fa-stack-2x"></i>

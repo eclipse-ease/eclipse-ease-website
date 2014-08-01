@@ -1,20 +1,18 @@
 .button {
-  display: block;
+  display: inline-block;
   color: #2c2255;
+  margin: 10px;
   text-decoration: none;
   vertical-align: top;
   position: relative;
   
   width: 350px;
   height: 80px;
-  padding: 5px;
+  padding: 0px;
 }
 
 .button:hover .icon {
 	color: #9aa4c2;
-}
-
-.button:hover .details {
 }
 
 .button h1 {
@@ -25,7 +23,6 @@
 }
 
 .button .details {
-	display: none;
 	display: inline-block;
 	float: right;
 	position: absolute;
