@@ -2,73 +2,12 @@
 	$pageTitle 		= "EASE - Eclipse Advanced Scripting Environment";
 	$pageKeywords	= "Eclipse, EASE, Scripting";
 	$pageAuthor		= "Christian Pontesegger";
-
-    $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ease/css/button.css"/>' . "\n\t");
-    $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css"/>' . "\n\t");
 	
 	# provide the page content
-	$news = file_get_contents('_news.html');
 	
 	$html = <<<EOHTML
 
 <div id="midcolumn">
-
-
-<a class="button" href="/ease/support/">
-	<span class="fa-stack fa-2x icon">
-  		<i class="fa fa-square-o fa-stack-2x"></i>
-  		<i class="fa fa-cogs fa-stack-1x"></i>
-	</span>
-  	<h1>Support</h1>
-  	<span class="details">
-	  	Bug Tracker, Forums, Mailing List
-  	</span>
-</a>
-
-<a class="button" href="/ease/download/">
-	<span class="fa-stack fa-2x icon">
-  		<i class="fa fa-square-o fa-stack-2x"></i>
-  		<i class="fa fa-download fa-stack-1x"></i>
-	</span>
-  	<h1>Download</h1>
-  	<span class="details">
-	  	 Update Site, Script Engines
-  	</span>
-</a>
-<br/>
-<a class="button" href="/ease/documentation/">
-	<span class="fa-stack fa-2x icon">
-  		<i class="fa fa-square-o fa-stack-2x"></i>
-  		<i class="fa fa-mortar-board fa-stack-1x"></i>
-	</span>
-  	<h1>Documentation</h1>
-  	<span class="details">
-	  	Tutorials, Examples, API
-  	</span>
-</a>
-
-<a class="button" href="/ease/developers/">
-	<span class="fa-stack fa-2x icon">
-  		<i class="fa fa-square-o fa-stack-2x"></i>
-  		<i class="fa fa-comments-o fa-stack-1x"></i>
-	</span>
-  	<h1>Getting Involved</h1>
-  	<span class="details">
-	  	Contributor Guide, Wiki, Mailing List
-  	</span>
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
 	<h3>EASE</h3>
 	<br/>
 	<a href="/projects.eclipse.org/projects/technology.ease">About This Project</a>
@@ -88,7 +27,25 @@
 {$incubation}
 
 <div id="rightcolumn">
-	{$news}
+	<a class="btn btn-block btn-warning sidebutton" href="/ease/download/" title="Update Site, Script Engines">
+    	<i class="fa fa-download icon"></i>
+     	Download EASE
+	</a>
+
+	<a class="btn btn-block btn-primary sidebutton" href="/ease/documentation/" title="Tutorials, Examples, API">
+    	<i class="fa fa-mortar-board icon"></i>
+     	Documentation
+	</a>
+
+	<a class="btn btn-block btn-primary sidebutton" href="/ease/support/" title="Forums, Bug Tracker, Mailing List">
+    	<i class="fa fa-cogs icon"></i>
+     	Support
+	</a>
+
+	<a class="btn btn-block btn-primary sidebutton" href="/ease/developers" title="Contributor Guide, Wiki, Mailing List">
+    	<i class="fa fa-comments-o icon"></i>
+     	Developers
+	</a>
 </div>
 				
 EOHTML;

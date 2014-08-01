@@ -4,7 +4,7 @@
 }
 
 #midcolumn {
-	max-width: 730px;
+	width: 730px;
 	padding: 0 10px 10px 10px;
 }
 
@@ -13,9 +13,9 @@ main #rightcolumn {
 }
 
 .sidebutton {
-	
+	text-align: left;
 }
 
 .icon {
-	
+	padding: 0px 10px 0px 20px;
 }
