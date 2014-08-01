@@ -42,10 +42,11 @@
 
 <div id="rightcolumn">
 	<div class="project_state">
-		<a class="incubating" href="http://www.eclipse.org/projects/what-is-incubation.php"><img src="/images/egg-incubation.png" border="0" width=70 alt="Incubation" /></a>
+		<a class="incubating" href="http://www.eclipse.org/projects/what-is-incubation.php"><img src="/images/egg-incubation.png" border="0" width="98" height="128" alt="Incubation" /></a>
 	</div>	
 </div>
 
+{$incubation}
 
 <div id="rightcolumn">
 	<div class="sideitem">
