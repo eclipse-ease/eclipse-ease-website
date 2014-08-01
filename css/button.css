@@ -1,0 +1,36 @@
+.button {
+  display: block;
+  color: #2c2255;
+  text-decoration: none;
+  vertical-align: top;
+  position: relative;
+  
+  width: 350px;
+  height: 80px;
+  padding: 5px;
+}
+
+.button:hover .icon {
+	color: #9aa4c2;
+}
+
+.button:hover .details {
+}
+
+.button h1 {
+	font-size: 1.2em;
+	font-weight: bold;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.button .details {
+	display: none;
+	display: inline-block;
+	float: right;
+	position: absolute;
+	top: 45px;
+	left: 150px;
+	
+	text-align: left;
+}
