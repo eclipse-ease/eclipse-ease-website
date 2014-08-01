@@ -1,18 +1,14 @@
 .button {
-  display: inline-block;
-  color: #2c2255;
-  margin: 10px;
-  text-decoration: none;
-  vertical-align: top;
-  position: relative;
-  
-  width: 300px;
-  height: 70px;
-  padding: 0px;
-}
-
-.button:hover .icon {
-	color: #9aa4c2;
+	color: #312761;
+	display: inline-block;
+	margin: 0px 10px 20px 10px;
+	text-decoration: none;
+	vertical-align: top;
+	position: relative;
+	width: 275px;
+	height: 65px;
+	padding: 0px;
+	font-weight: normal;
 }
 
 .button h1 {
@@ -20,12 +16,23 @@
 	font-weight: bold;
 	display: inline-block;
 	vertical-align: top;
+	margin-top: 8px
 }
 
 .button .details {
+	color: #888888;
 	display: inline-block;
 	float: right;
 	position: absolute;
-	top: 45px;
-	left: 100px;
+	top: 30px;
+	left: 120px;
+	text-align: left;
+}
+
+.button:hover .icon {
+	color: #9aa4c2;
+}
+
+.button:hover .details {
+	color: #f8a644;
 }
