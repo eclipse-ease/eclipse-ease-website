@@ -1,7 +1,11 @@
+a:hover {
+	color: #f8a644;
+}
+
 .button {
 	color: #312761;
 	display: inline-block;
-	margin: 0px 10px 20px 10px;
+	margin: 0px 5px 10px 5px;
 	text-decoration: none;
 	vertical-align: top;
 	position: relative;
@@ -20,13 +24,27 @@
 }
 
 .button .details {
-	color: #888888;
-	display: inline-block;
+	display: none;
 	float: right;
 	position: absolute;
 	top: 30px;
-	left: 120px;
+	left: 80px;
+	width: 320px;
+	height: 16px;
 	text-align: left;
+	padding: 10px;
+	background-color: #ffffe1;
+	/* border */
+	border: 1px solid #d4d0c8;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px; /* future proofing */
+	-khtml-border-radius: 5px; /* for old Konqueror browsers */
+	/* shadow */
+	-webkit-box-shadow: 3px 3px 5px 0px rgba(50, 50, 50, 0.5);
+	-moz-box-shadow: 3px 3px 5px 0px rgba(50, 50, 50, 0.5);
+	box-shadow: 3px 3px 5px 0px rgba(50, 50, 50, 0.5);
+	z-index: 1;
 }
 
 .button:hover .icon {
@@ -34,5 +52,6 @@
 }
 
 .button:hover .details {
-	color: #f8a644;
+	display: inline-block;
+	color: black;
 }
