@@ -5,10 +5,17 @@
 	# https://dev.eclipse.org/committers/
 	# Optional: defaults to system theme 
 	$theme = "solstice";
-
 	
+#  	include("sidebar.php");
+
+#    $App->setOGDescription('Jetty is a highly scalable modular servlet engine and http server that natively supports many modern protocols like SPDY and WebSockets.');
+#    $App->setOGImage('http://www.eclipse.org/jetty/images/jetty-logo-80x22.png');
+    	
 	# global settings
 	$pageKeywords	= "Eclipse, EASE, Scripting";
+    # $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ease/css/style.css"/>' . "\n\t");
+    # $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ease/css/style2.css"/>' . "\n\t");
+    $App->SetGoogleAnalyticsTrackingCode("UA-53416191-1");
 
 	
 	# project menu (top bar under eclipse logo)
@@ -30,15 +37,12 @@
 	$Nav->addCustomNav("Support", "/ease/support/", "_self", 3);
 	$Nav->addCustomNav("Getting Involved", "/ease/developers/", "_self", 3);
 	
-	
-	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="style.css"/>' . "\n\t");
-	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="style2.css"/>' . "\n\t");
-	
+		
 	$App->Promotion = TRUE;
 	
 	
 	# add incubation logo
-	$rightcolumn = <<<EOHTML
+	$incubation = <<<EOHTML
 
 	<div id="rightcolumn">
 		<div class="sideitem">

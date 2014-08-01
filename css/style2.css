@@ -150,19 +150,3 @@
 #bigbuttons a * {
 	visibility: hidden;
 }
-
-
-/*
-#screencast {
-	margin: 20px;
-	position: relative;
-	left: 50px;
-	width: 480px; 
-	background-color: black; 
-	clear: both; 
-	height: 340px;
-	color: white;
-	text-align: center;
-	vertical-align: middle;
-}
-*/
