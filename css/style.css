@@ -2,19 +2,27 @@
 	text-align: center;
 }
 
-#novaContent {
-	background: url("images/backgroundMain.png") no-repeat;
-	padding-top: 210px;
+.centered {
+	margin: 0 auto;
+	width: 80%;
+	display: inline;
+	text-align: center;
 }
 
 #midcolumn {
-	width: 600px;
+	width: 650px;
 	padding: 0 10px 10px 10px;
 }
 
 #rightcolumn {
 	width: 300px;
 }
+
+
+
+
+
+/*
 
 #padding {
 	height: 20px;
@@ -36,3 +44,4 @@ a strong {
 #rightcolumn ul {
 	margin-left: 10px;
 }
+*/
