@@ -7,20 +7,6 @@
 	# provide the page content
 	$html = <<<EOHTML
 
-<div id="bigbuttons">
-	<h3>Primary Links</h3>
-	<ul>
-		<li><a id="buttonDownload" href="/ease/download/" title="Download">Eclipse
-			Distribution, Update Site, Dropins</a></li>
-		<li><a id="buttonDocumentation" href="/ease/documentation/"
-			title="Documentation">Tutorials, Examples, Videos, Reference Documentation</a></li>
-		<li><a id="buttonSupport" href="/ease/support/" title="Support">Bug
-			Tracker, Newsgroup, Support</a></li>
-		<li><a id="buttonInvolved" href="/ease/developers/" title="Getting Involved">Contributor Guide, Mailing Lists, Wiki</a></li>
-	</ul>
-</div>
-
-
 <div id="midcolumn">
 
 	<h3>EASE</h3>
@@ -39,23 +25,13 @@
 	</p>
 </div>
 
-
-<div id="rightcolumn">
-	<div class="project_state">
-		<a class="incubating" href="http://www.eclipse.org/projects/what-is-incubation.php"><img src="/images/egg-incubation.png" border="0" width="98" height="128" alt="Incubation" /></a>
-	</div>	
-</div>
-
 {$incubation}
 
 <div id="rightcolumn">
 	<div class="sideitem">
-		<h6>Committers</h6>
-		
-		<ul>
-			<li>Christian Pontesegger</li>
-			<li>Arthur Daussy (<a href="http://www.obeo.fr/">OBEO</a>)</li>
-		</ul>		
+		<h6>News</h6>
+
+		<p>We are alive!</p>		
 	</div>
 </div>
 				

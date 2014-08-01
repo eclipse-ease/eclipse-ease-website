@@ -57,13 +57,8 @@
 	$incubation = <<<EOHTML
 
 	<div id="rightcolumn">
-		<div class="sideitem">
-			<h6>Incubation Phase</h6>
-			<center>
-					<a href="/projects/what-is-incubation.php"><img 
-	        			src="/images/egg-incubation.png" 
-	        			border="0" width="98" height="128" alt="Incubation" /></a>
-	    	</center>
+		<div class="project_state">
+			<a href="/projects/what-is-incubation.php"><img src="/images/egg-incubation.png" border="0" width="98" height="128" alt="Incubation" /></a>
       	</div>
 	</div>
 			
