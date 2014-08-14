@@ -23,8 +23,8 @@
 		<ul>
 			<li><i class="fa fa-fw fa-github bullet"></i>
 				<a href="https://github.com/eclipse-ease-addons/jython">eclipse-ease-addons/jython</a>
-				- Jython interpreter & debugger</li></i>
-			<li><i class="fa fa-fw fa-github bullet">
+				- Jython interpreter & debugger</li>
+			<li><i class="fa fa-fw fa-github bullet"></i>
 				<a href="https://github.com/eclipse-ease-addons/groovy">eclipse-ease-addons/groovy</a>
 				- Groovy interpreter</li>
 			<li><i class="fa fa-fw fa-github bullet"></i>
