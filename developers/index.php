@@ -10,18 +10,21 @@
 <div id="midcolumn">
 	<p>Source code is hosted on gerrit:</p>
 	
-	<ul>
-		<li><a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.core">org.eclipse.ease.core</a>
-			- Core framework and script engines (<i class="fa fa-fw fa-git-square bullet"></i> <a href="http://git.eclipse.org/c/ease/org.eclipse.ease.core.git/">browse</a>)</li>
-		<li><a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.modules">org.eclipse.ease.modules</a>
-			- Additional modules (script libraries) (<i class="fa fa-fw fa-git-square bullet"></i> <a href="http://git.eclipse.org/c/ease/org.eclipse.ease.modules.git/">browse</a>)</li>
-		<li><a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.scripts">org.eclipse.ease.scripts</a>
-			- Useful scripts & tutorials (<i class="fa fa-fw fa-git-square bullet"></i> <a href="http://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/">browse</a>)</li>
+	<ul class="nobullet">
+		<li><i class="fa fa-fw fa-git-square bullet"></i>
+			<a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.core">org.eclipse.ease.core</a>
+			- Core framework and script engines (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.core.git/">browse</a>)</li>
+		<li><i class="fa fa-fw fa-git-square bullet"></i>
+			<a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.modules">org.eclipse.ease.modules</a>
+			- Additional modules (script libraries) (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.modules.git/">browse</a>)</li>
+		<li><i class="fa fa-fw fa-git-square bullet"></i>
+			<a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.scripts">org.eclipse.ease.scripts</a>
+			- Useful scripts & tutorials (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/">browse</a>)</li>
 	</ul>
 		
 	<p>Some additional components are hosted on github:</p>
 		
-	<ul>
+	<ul class="nobullet">
 		<li><i class="fa fa-fw fa-github bullet"></i>
 			<a href="https://github.com/eclipse-ease-addons/jython">eclipse-ease-addons/jython</a>
 			- Jython interpreter & debugger</li>
