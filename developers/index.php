@@ -11,9 +11,25 @@
 	<p>Source code is hosted on gerrit:
 		<ul>
 			<li><a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.core">org.eclipse.ease.core</a>
-				- Core framework and script engines (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.core.git/">browse code</a>)</li>
+				- Core framework and script engines (<i class="fa fa-fw fa-git-square bullet"> <a href="http://git.eclipse.org/c/ease/org.eclipse.ease.core.git/">browse</a>)</li>
+			<li><a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.modules">org.eclipse.ease.modules</a>
+				- Additional modules (script libraries) (<i class="fa fa-fw fa-git-square bullet"> <a href="http://git.eclipse.org/c/ease/org.eclipse.ease.modules.git/">browse</a>)</li>
 			<li><a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.scripts">org.eclipse.ease.scripts</a>
-				- Example scripts (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/">browse code</a>)</li>
+				- Useful scripts & tutorials (<i class="fa fa-fw fa-git-square bullet"> <a href="http://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/">browse</a>)</li>
+		</ul>
+		
+		Some additional components are hosted on github:
+		
+		<ul>
+			<li><i class="fa fa-fw fa-github bullet">
+				<a href="https://github.com/eclipse-ease-addons/jython">eclipse-ease-addons/jython</a>
+				- Jython interpreter & debugger</li>
+			<li><i class="fa fa-fw fa-github bullet">
+				<a href="https://github.com/eclipse-ease-addons/groovy">eclipse-ease-addons/groovy</a>
+				- Groovy interpreter</li>
+			<li><i class="fa fa-fw fa-github bullet">
+				<a href="https://github.com/eclipse-ease-addons/jruby">eclipse-ease-addons/jruby</a>
+				- JRuby interpreter</li>
 		</ul>
 	
 		Please read the <a href="http://wiki.eclipse.org/EASE/Contributor_Guide" title="EASE Contributor Guide">Contributor Guide</a> for detailed information.
