@@ -1,13 +1,39 @@
 <?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
 	$pageTitle 		= "EASE - Download";
-	$version      = "3.4.1.201406201815-r";
+	$pageKeywords	= "Eclipse, EASE, Scripting";
+	$pageAuthor		= "Christian Pontesegger";
 
-	$html  = '<div id="midcolumn">';
-	$html .= file_get_contents('_index.html');
-	$html .= "</div>";
+	
+	# provide the page content
+	$html = <<<EOHTML
 
-	$html = preg_replace('/@VERSION@/', $version, $html);
+<script language="JavaScript">
+function copyToClipboard(text) {
+    Copied = text.createTextRange();
+    Copied.execCommand("Copy");
+}
+</script>
+<div id="midcolumn">
+	<p>As a fresh project we do not have releases yet. For now you have to live on the bleeding edge and use our update site:</p>
+	
+	<ul class="nobullet">
+		<li><i class="fa fa-fw icon-link bullet"></i>
+			Nightly: http://download.eclipse.org/ease/update/nightly</li>
+	</ul>
+		
+	<p>External components like additional interpreters can be installed using an external update site:</p>
+	
+	<ul class="nobullet">
+		<li><i class="fa fa-fw icon-link bullet"></i>
+			Nightly: http://topcased-mm.gforge.enseeiht.fr/ease_jython/updates/ease_jython_nightly</li>
+	</ul>
+</div>
 
+{$incubation}
+				
+EOHTML;
+	
+	
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>
