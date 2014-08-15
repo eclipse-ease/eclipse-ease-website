@@ -39,6 +39,7 @@
 	$Nav->setLinkList(array());
 
 	$Nav->addNavSeparator("EASE",		"/ease/");
+	$Nav->addCustomNav("Download",		"/ease/download/", "_self", 3);
 	$Nav->addCustomNav("Documentation",	"/ease/documentation/", "_self", 3);
 	$Nav->addCustomNav("Support",		"/ease/support/", "_self", 3);
 	$Nav->addCustomNav("Developers",	"/ease/developers/", "_self", 3);
