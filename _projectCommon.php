@@ -45,6 +45,7 @@
 	$Nav->addCustomNav("Developers",	"/ease/developers/", "_self", 3);
 	
 	$Nav->addNavSeparator("Actions",	null);
+	$Nav->addCustomNav("Read news",		"/ease/news/", "_self", 3);
 	$Nav->addCustomNav("Ask question",	"https://www.eclipse.org/forums/index.php/f/292/", "_self", 3);
 	$Nav->addCustomNav("Contribute",	"http://wiki.eclipse.org/EASE/Contributor_Guide", "_self", 3);
 	$Nav->addCustomNav("Report Bug",	"https://bugs.eclipse.org/bugs/enter_bug.cgi?product=EASE&amp;rep_platform=All&amp;op_sys=All", "_self", 3);
