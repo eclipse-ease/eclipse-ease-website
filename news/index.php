@@ -14,7 +14,8 @@
 			Nightly update site available
 		</dt>
 		<dd>We have an automated nightly build available which feeds our nightly update site:<br />
-			http://download.eclipse.org/ease/update/nightly</dd>
+			http://download.eclipse.org/ease/update/nightly
+			<div class="date">2014/08/16</div></dd>
 	</dl>
 </div>
 
