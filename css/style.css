@@ -37,3 +37,15 @@ ul.nobullet {
 	padding-left: 20px;
 	border-left: 2px solid #f7941e;
 }
+
+.date {
+	float: right;
+	font-style: italic;
+	padding-top: 20px;
+}
+
+.date::before {
+	content: "Posted: "
+}
+
+
