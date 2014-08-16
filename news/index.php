@@ -9,16 +9,11 @@
 
 <div id="midcolumn">
 	<dl class="news">
-		<dt><i class="fa fa-fw fa-download bullet"></i>2014/08/16: Nightly update site available</dt>
+		<dt><i class="fa fa-fw fa-download bullet"></i>
+			<div class="date">2014/08/16</div>
+			Nightly update site available
+		</dt>
 		<dd>We have an automated nightly build available which feeds our nightly update site:<br />
-			http://download.eclipse.org/ease/update/nightly</dd>
-		<dt><i class="fa fa-fw fa-download bullet"></i>2014/08/16: Nightly update site available</dt>
-		<dd>Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, </dd>
-		<dt><i class="fa fa-fw fa-download bullet"></i>2014/08/16: Nightly update site available</dt>
-		<dd>We have an automated nightly build available which feeds our nightly update site:<br />
-			http://download.eclipse.org/ease/update/nightly<br />
-			http://download.eclipse.org/ease/update/nightly<br />
-			http://download.eclipse.org/ease/update/nightly<br />
 			http://download.eclipse.org/ease/update/nightly</dd>
 	</dl>
 </div>

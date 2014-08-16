@@ -28,12 +28,12 @@ ul.nobullet {
 	list-style-type: none;
 }
 
-news.dt {
-	color: #413962;
+.news dt i {
+    margin-right: 10px;
 }
 
-news.dd {
-	margin: 10px 0px 10px 16px;
-	padding: 00px 0px 00px 10px;
-	border-left: 2px solid #f79a2b;
+.news dd {
+	margin: 10px 0px 40px 7px;
+	padding-left: 20px;
+	border-left: 2px solid #f7941e;
 }
