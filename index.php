@@ -10,7 +10,7 @@
 <div id="midcolumn">
 	<h3>EASE</h3>
 	<br/>
-	<a href="/projects.eclipse.org/projects/technology.ease">About This Project</a>
+	<a href="http://projects.eclipse.org/projects/technology.ease">About This Project</a>
 
 	<p>EASE is a scripting environment for Eclipse.<br/>
 		It allows to create, maintain and execute script code in the context of the
