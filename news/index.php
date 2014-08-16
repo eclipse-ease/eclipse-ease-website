@@ -9,7 +9,7 @@
 
 <div id="midcolumn">
 	<dl>
-		<dt><i class="fa fa-fw fa-download bullet">2014/08/16: Nightly update site available</dt>
+		<dt><i class="fa fa-fw fa-download bullet"></i>2014/08/16: Nightly update site available</dt>
 		<dd>We have an automated nightly build available which feeds our nightly update site:<br />
 			http://download.eclipse.org/ease/update/nightly</dd>
 	</dl>
