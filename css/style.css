@@ -29,7 +29,7 @@ ul.nobullet {
 }
 
 .news dt i {
-    margin-right: 10px;
+	margin-right: 10px;
 }
 
 .news dd {
@@ -48,4 +48,12 @@ ul.nobullet {
 	content: "Posted: "
 }
 
+.p2site {
+	color: rgb(68, 54, 133);
+	font-weight: bold;
+	cursor: pointer;
+}
 
+.p2site:hover {
+	color: rgb(247, 148, 30);
+}
