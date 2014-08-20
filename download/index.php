@@ -18,7 +18,7 @@ function copyToClipboard(text) {
 	
 	<ul class="nobullet">
 		<li><i class="fa fa-fw icon-link bullet"></i>
-			Nightly: http://download.eclipse.org/ease/update/nightly</li>
+			Nightly: <a href="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/update/nightly');">http://download.eclipse.org/ease/update/nightly</a></li>
 	</ul>
 		
 	<p>External components like additional interpreters can be installed using an external update site:</p>
