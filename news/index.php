@@ -9,11 +9,17 @@
 
 <div id="midcolumn">
 	<dl class="news">
+		<dt><i class="fa fa-fw icon-cogs bullet"></i>
+			Java 8 Nashorn engine preview
+		</dt>
+		<dd>Just implemented a draft version of the Nashorn JavaScript engine from Java 8. Available on the nightly update site.
+			<div class="date">2014/08/21</div></dd>
+
 		<dt><i class="fa fa-fw fa-download bullet"></i>
 			Nightly update site available
 		</dt>
 		<dd>We have an automated nightly build available which feeds our nightly update site:<br />
-			http://download.eclipse.org/ease/update/nightly
+			<span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/update/nightly');">http://download.eclipse.org/ease/update/nightly</span>
 			<div class="date">2014/08/16</div></dd>
 	</dl>
 </div>
