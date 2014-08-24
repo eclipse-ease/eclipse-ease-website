@@ -9,7 +9,7 @@
 
 <div id="midcolumn">
 	<dl class="news">
-		<dt><i class="fa fa-fw icon-cogs bullet"></i>
+		<dt><i class="fa fa-fw fa-cogs bullet"></i>
 			Java 8 Nashorn engine preview
 		</dt>
 		<dd>Just implemented a draft version of the Nashorn JavaScript engine from Java 8. Available on the nightly update site.
