@@ -14,6 +14,7 @@ function copyToClipboard(text) {
 }
 </script>
 <div id="midcolumn">
+	<h3><i class="fa fa-fw fa-download"></i> Download</h3>
 	<p>As a fresh project we do not have releases yet. For now you have to live on the bleeding edge and use our update site:</p>
 	
 	<ul class="nobullet">
