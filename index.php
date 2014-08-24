@@ -33,7 +33,7 @@
 	</a>
 
 	<a class="btn btn-block btn-primary sidebutton" href="/ease/documentation/" title="Tutorials, Examples, API">
-    	<i class="fa fa-fw fa-mortar-board icon"></i>
+    	<i class="fa fa-fw fa-book icon"></i>
      	Documentation
 	</a>
 
