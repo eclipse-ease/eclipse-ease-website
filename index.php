@@ -14,8 +14,16 @@
 
 	<p>EASE is a scripting environment for Eclipse.<br/>
 		It allows to create, maintain and execute script code in the context of the
-		running Eclipse instance. 
+		running Eclipse instance. Therefore such scripts may manipulate and extend the IDE itself. 
 	</p>
+	
+	<p>Various script engines are available, like Rhino (JavaScript), Jython or Groovy. The extensible framework allows
+	to add any kind of language, you could even embed your own command shell.</p>
+	<p><img src="/ease/images/screenshots/rhino_shell.png" /></p>
+	
+	<p>Provided engines allow usage of modules - libraries written in Java and made easily accessible from script code.
+		Like script engines, modules can be added to the framework quite easily.</p>
+	<p><img src="/ease/images/screenshots/modules_explorer.png" /></p>
 
 	<p>
 	<!-- 
