@@ -9,7 +9,7 @@
 <div id="midcolumn">
 	<p><i>"I need some guidance and tutorials"</i></p>
 	<ul class="nobullet">
-		<li><i class="fa fa-fw fa-mortar-board bullet"></i>
+		<li><i class="fa fa-fw fa-book bullet"></i>
 			<a href="/ease/documentation" title="Documentation">Documentation</a>
 			- read our Users Guide</li>
 	</ul>
