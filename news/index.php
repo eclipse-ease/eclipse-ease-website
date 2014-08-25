@@ -8,6 +8,8 @@
 	$html = <<<EOHTML
 
 <div id="midcolumn">
+	<h3><i class="fa fa-fw fa-bolt"></i> News</h3>
+
 	<dl class="news">
 		<dt><i class="fa fa-fw fa-cogs bullet"></i>
 			Java 8 Nashorn engine preview

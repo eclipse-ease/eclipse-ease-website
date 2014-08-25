@@ -8,6 +8,8 @@
 	$html = <<<EOHTML
 
 <div id="midcolumn">
+	<h3><i class="fa fa-fw fa-comments-o"></i> Developers</h3>
+
 	<p>Source code is hosted on gerrit:</p>
 	
 	<ul class="nobullet">

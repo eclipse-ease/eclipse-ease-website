@@ -7,6 +7,8 @@
 	$html = <<<EOHTML
 
 <div id="midcolumn">
+	<h3><i class="fa fa-fw fa-cogs"></i> Support</h3>
+
 	<p><i>"I need some guidance and tutorials"</i></p>
 	<ul class="nobullet">
 		<li><i class="fa fa-fw fa-book bullet"></i>

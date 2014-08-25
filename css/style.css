@@ -1,11 +1,20 @@
+/* for incubation logo */
 .project_state {
 	text-align: center;
 	margin-bottom: 20px;
 }
 
+/* content column boxing */
 #midcolumn {
 	width: 730px;
 	padding: 0 10px 10px 10px;
+}
+
+/* content column header */
+#midcolumn h3 {
+	padding-bottom: 10px;
+	margin-bottom: 30px;
+	border-bottom: 2px solid rgb(51, 51, 51);
 }
 
 main #rightcolumn {
@@ -28,6 +37,9 @@ ul.nobullet {
 	list-style-type: none;
 }
 
+
+
+/* news items formatting */
 .news dt i {
 	margin-right: 10px;
 }
@@ -48,6 +60,9 @@ ul.nobullet {
 	content: "Posted: "
 }
 
+
+
+/* update site formatting */
 .p2site {
 	color: rgb(68, 54, 133);
 	font-weight: bold;
