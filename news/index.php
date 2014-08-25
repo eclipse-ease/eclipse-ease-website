@@ -14,6 +14,12 @@
 		<dt><i class="fa fa-fw fa-cogs bullet"></i>
 			Java 8 Nashorn engine preview
 		</dt>
+		<dd>Implemented draft of a Groovy engine. You may find the update site location in the <a href="/ease/download">download section</a>.
+			<div class="date">2014/08/25</div></dd>
+
+		<dt><i class="fa fa-fw fa-cogs bullet"></i>
+			Java 8 Nashorn engine preview
+		</dt>
 		<dd>Just implemented a draft version of the Nashorn JavaScript engine from Java 8. Available on the nightly update site.
 			<div class="date">2014/08/21</div></dd>
 
