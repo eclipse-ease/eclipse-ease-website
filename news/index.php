@@ -12,7 +12,7 @@
 
 	<dl class="news">
 		<dt><i class="fa fa-fw fa-cogs bullet"></i>
-			Java 8 Nashorn engine preview
+			Groovy engine preview
 		</dt>
 		<dd>Implemented draft of a Groovy engine. You may find the update site location in the <a href="/ease/download">download section</a>.
 			<div class="date">2014/08/25</div></dd>
