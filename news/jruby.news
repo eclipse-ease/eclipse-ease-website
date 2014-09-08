@@ -2,5 +2,5 @@
 <news>
 	<title>JRuby engine preview</title>
 	<icon>fa-cogs</icon>
-	<content>Implemented draft of a Groovy engine. You may find the update site location in the &lt;a href=&quot;/ease/download&quot;&gt;download section&lt;/a&gt;.</content>
+	<content>Implemented draft of a JRuby engine. You may find the update site location in the &lt;a href=&quot;/ease/download&quot;&gt;download section&lt;/a&gt;.</content>
 </news>
