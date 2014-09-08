@@ -36,7 +36,10 @@
 				
 EOHTML;
 	
-	
+	foreach (glob(getcwd() . '/*.news') as $file) {
+		$html = $html . file_get_contents($file);
+	}
+
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>
