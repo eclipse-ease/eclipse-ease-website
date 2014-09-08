@@ -4,11 +4,30 @@
 	$pageAuthor		= "Christian Pontesegger";
 
 	
+	# aggregate news
+	$dir = glob(getcwd() . '/*.news'); 
+	uasort($dir, function ($a, $b) { return filemtime($a) - filemtime($b);}); 
+
+	$news = '<dl class="news">';
+	foreach ($dir as $file) {
+		$xml = simplexml_load_file($file);
+		
+		$news .= '<dt><i class="fa fa-fw ' . $xml->icon[0] . ' bullet"></i>';
+		$news .= $xml->title[0];
+		$news .= '</dt>';
+		$news .= '<dd>' . $xml->content[0];
+		$news .= '<div class="date">' . date("Y/m/d", filemtime($file)) . '</div>';
+		$news .= '</dd>';
+	}
+	$news .= '</dl>';	
+	
 	# provide the page content
 	$html = <<<EOHTML
 
 <div id="midcolumn">
 	<h3><i class="fa fa-fw fa-bolt"></i> News</h3>
+
+	{$news}
 
 	<dl class="news">
 		<dt><i class="fa fa-fw fa-cogs bullet"></i>
@@ -35,21 +54,6 @@
 {$incubation}
 				
 EOHTML;
-
-	$html .= '<dl class="news">';
-	
-	foreach (glob(getcwd() . '/*.news') as $file) {
-		$xml = simplexml_load_file($file);
-		
-		$html .= '<dt><i class="fa fa-fw ' . $xml->icon[0] . ' bullet"></i>';
-		$html .= $xml->title[0];
-		$html .= '</dt>';
-		$html .= '<dd>' . $xml->content[0];
-		$html .= '<div class="date">' . date("y/m/d", filemtime($file)) . '</div>';
-		$html .= '</dd>';
-	}
-
-	$html .= '</dl>';
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
