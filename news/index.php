@@ -35,10 +35,21 @@
 {$incubation}
 				
 EOHTML;
+
+	$html .= '<dl class="news">';
 	
 	foreach (glob(getcwd() . '/*.news') as $file) {
-		$html = $html . file_get_contents($file);
+		$xml = simplexml_load_file($file);
+		
+		$html .= '<dt><i class="fa fa-fw ' . $xml->icon[0] . ' bullet"></i>';
+		$html .= $xml->title[0];
+		$html .= '</dt>';
+		$html .= '<dd>' . $xml->content[0];
+		$html .= '<div class="date">' . date("y/m/d", filemtime($file)) . '</div>';
+		$html .= '</dd>';
 	}
+
+	$html .= '</dl>';
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
