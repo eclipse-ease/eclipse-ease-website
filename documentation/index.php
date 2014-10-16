@@ -9,7 +9,14 @@
 
 <div id="midcolumn">
 	<h3><i class="fa fa-fw fa-book"></i> Documentation</h3>
-	<p>Coming soon...</p>
+	<p>
+      <ul class="nobullet">
+	  <li><a href="https://wiki.eclipse.org/EASE">Wiki main page</a></li>
+	  <li><a href="https://wiki.eclipse.org/EASE/Scripts">Script management</a></li>
+	  <li><a href="https://wiki.eclipse.org/EASE/Engines">Supported script engines</a></li>
+	  <li><a href="https://wiki.eclipse.org/EASE/Modules">Provided modules</a></li>
+	  </ul>
+	</p>
 </div>
 
 {$incubation}
