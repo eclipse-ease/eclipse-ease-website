@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<news>
+	<title>Jython debugger released</title>
+	<icon>fa-cogs</icon>
+	<content>Implementation of Jython debugger finished. Grab it as part of the Jython feature from the external Jython update site. For breakpoint support install PyDev.</content>
+</news>
