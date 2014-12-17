@@ -6,7 +6,7 @@
 	
 	# aggregate news
 	$dir = glob(getcwd() . '/*.news'); 
-	uasort($dir, function ($a, $b) { return filemtime($a) - filemtime($b);}); 
+	uasort($dir, function ($a, $b) { return filemtime($b) - filemtime($a);}); 
 
 	$news = '<dl class="news">';
 	foreach ($dir as $file) {
