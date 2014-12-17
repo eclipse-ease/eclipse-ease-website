@@ -9,9 +9,10 @@
 
 <div id="midcolumn">
 	<h3><i class="fa fa-fw fa-download"></i> Download</h3>
-	<p>As a fresh project we do not have releases yet. For now you have to live on the bleeding edge and use our update site:</p>
 	
 	<ul class="nobullet">
+		<li><i class="fa fa-fw icon-link bullet"></i>
+			Release: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/update/release');">http://download.eclipse.org/ease/update/release</span></li>
 		<li><i class="fa fa-fw icon-link bullet"></i>
 			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/update/nightly');">http://download.eclipse.org/ease/update/nightly</span></li>
 	</ul>
