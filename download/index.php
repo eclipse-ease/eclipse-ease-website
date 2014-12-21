@@ -10,11 +10,20 @@
 <div id="midcolumn">
 	<h3><i class="fa fa-fw fa-download"></i> Download</h3>
 	
+	<p>Primary update sites:</p>
+
 	<ul class="nobullet">
 		<li><i class="fa fa-fw icon-link bullet"></i>
 			Release: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/update/release');">http://download.eclipse.org/ease/update/release</span></li>
 		<li><i class="fa fa-fw icon-link bullet"></i>
 			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/update/nightly');">http://download.eclipse.org/ease/update/nightly</span></li>
+	</ul>
+
+	<p>Archives for offline installation:</p>
+
+	<ul class="nobullet">
+		<li><i class="fa fa-fw icon-link bullet"></i>
+			<a href=" http://eclipse.org/downloads/download.php?file=/ease/release/ease-p2-v0.1.0.zip">EASE v0.1.0</a></li>
 	</ul>
 		
 	<p>External components like additional interpreters can be installed using an external update site:</p>
