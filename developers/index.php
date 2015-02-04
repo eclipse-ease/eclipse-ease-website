@@ -15,13 +15,13 @@
 	<ul class="nobullet">
 		<li><i class="fa fa-fw fa-git-square bullet"></i>
 			<a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.core">org.eclipse.ease.core</a>
-			- Core framework and script engines (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.core.git/">browse</a>)</li>
+			- Core framework and script engines (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.core.git/tree">browse</a>)</li>
 		<li><i class="fa fa-fw fa-git-square bullet"></i>
 			<a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.modules">org.eclipse.ease.modules</a>
-			- Additional modules (script libraries) (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.modules.git/">browse</a>)</li>
+			- Additional modules (script libraries) (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.modules.git/tree">browse</a>)</li>
 		<li><i class="fa fa-fw fa-git-square bullet"></i>
 			<a href="https://git.eclipse.org/r/#/admin/projects/ease/org.eclipse.ease.scripts">org.eclipse.ease.scripts</a>
-			- Useful scripts & tutorials (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/">browse</a>)</li>
+			- Useful scripts & tutorials (<a href="http://git.eclipse.org/c/ease/org.eclipse.ease.scripts.git/tree">browse</a>)</li>
 	</ul>
 		
 	<p>Some additional components are hosted on github:</p>
