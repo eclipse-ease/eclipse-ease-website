@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<news>
+	<title>External sites moved to bintray</title>
+	<icon>fa-download</icon>
+	<content>Due to the shutdown of our previous update site for external components, we moved Jython, Groovy and JRuby p2 sites to bintray. Locations are available in the &lt;a href=&quot;/ease/download&quot;&gt;download section&lt;/a&gt;.</content>
+</news>

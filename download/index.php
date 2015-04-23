@@ -24,11 +24,11 @@
 	
 	<ul class="nobullet">
 		<li><i class="fa fa-fw icon-link bullet"></i>
-			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://topcased-mm.gforge.enseeiht.fr/ease_jython/updates/ease_jython_nightly/');">http://topcased-mm.gforge.enseeiht.fr/ease_jython/updates/ease_jython_nightly/</span></li>
+			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'https://dl.bintray.com/pontesegger/ease-jython/');">https://dl.bintray.com/pontesegger/ease-jython/</span></li>
 		<li><i class="fa fa-fw icon-link bullet"></i>
-			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://topcased-mm.gforge.enseeiht.fr/ease_groovy/updates/latest/');">http://topcased-mm.gforge.enseeiht.fr/ease_groovy/updates/latest/</span></li>
+			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'https://dl.bintray.com/pontesegger/ease-groovy/');">https://dl.bintray.com/pontesegger/ease-groovy/</span></li>
 		<li><i class="fa fa-fw icon-link bullet"></i>
-			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://topcased-mm.gforge.enseeiht.fr/ease_jruby/updates/latest/');">http://topcased-mm.gforge.enseeiht.fr/ease_jruby/updates/latest/</span></li>
+			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'https://dl.bintray.com/pontesegger/ease-jruby/');">https://dl.bintray.com/pontesegger/ease-jruby/</span></li>
 	</ul>
 
 	<p>Nightly builds:</p>
