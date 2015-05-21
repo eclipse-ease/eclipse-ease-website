@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<news>
+	<title>EASE v0.2.0 released</title>
+	<icon>fa-download</icon>
+	<content>We just released v0.2.0. We have added lots of UI improvements, a new script unit test framework and integrated documentation in the online help. Get it from the &lt;a href=&quot;/ease/download&quot;&gt;download section&lt;/a&gt;.</content>
+</news>
