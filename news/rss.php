@@ -19,7 +19,7 @@
 		$news .= '<title>' . $xml->title[0] . '</title>';
 		$news .= '<link>https://www.eclipse.org/ease/news/index.php#' . urlencode($xml->title[0]) . '</link>';
 //		$news .= '<pubDate> . date("Y/m/d", filemtime($file)) . '</pubDate>';
-		$news .= '<description>' . htmlspecialchars($xml->content[0]) . '........... ' . filemtime($file) . '</description>';
+		$news .= '<description>' . htmlspecialchars($xml->content[0]) . '........... ' . date(DATE_RFC822, filemtime($file)) . '</description>';
 		$news .= '</item>';
 	}
 
