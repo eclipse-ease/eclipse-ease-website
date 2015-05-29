@@ -16,9 +16,9 @@
 		$xml = simplexml_load_file($file);
 		
 		$news .= '<dt><i class="fa fa-fw ' . $xml->icon[0] . ' bullet"></i>';
-		$news .= '<a href="https://www.eclipse.org/ease/news/index.php#' . urlencode($xml->title[0]) . '" />';
+		$news .= '<a href="https://www.eclipse.org/ease/news/index.php#' . urlencode($xml->title[0]) . '">';
 		$news .= $xml->title[0];
-		$news .= '</dt>';
+		$news .= '</a></dt>';
 		$news .= '<dd>' . $xml->content[0];
 		$news .= '<div class="date">' . date("Y/m/d", filemtime($file)) . '</div>';
 		$news .= '</dd>';
