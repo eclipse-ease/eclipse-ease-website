@@ -18,8 +18,7 @@
 		$news .= '<item>';
 		$news .= '<title>' . $xml->title[0] . '</title>';
 		$news .= '<link>https://www.eclipse.org/ease/news/index.php#' . urlencode($xml->title[0]) . '</link>';
-//		$news .= '<pubDate> . date(DATE_RFC822, filemtime($file)) . '</pubDate>';
-//		$news .= '<pubDate>Aug, 22 2004 00:12:30 EST</pubDate>';
+		$news .= '<pubDate> . date(DATE_RSS, filemtime($file)) . '</pubDate>';
 		$news .= '<description>' . htmlspecialchars($xml->content[0]) . date(DATE_RFC822, filemtime($file))  . '</description>';
 		$news .= '</item>';
 	}
