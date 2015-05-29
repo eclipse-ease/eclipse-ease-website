@@ -6,6 +6,7 @@
 	$news .= '<title>Eclipse EASE</title>';
 	$news .= '<link>https://www.eclipse.org/ease/news</link>';
 	$news .= '<description>News feed for the Eclipse EASE framework</description>';
+	$news .= '<language>en</language>';
 
 	# aggregate news
 	$dir = glob(getcwd() . '/*.news'); 
@@ -18,7 +19,7 @@
 		$news .= '<title>' . $xml->title[0] . '</title>';
 		$news .= '<link>https://www.eclipse.org/ease/news/index.php#' . urlencode($xml->title[0]) . '</link>';
 //		$news .= '<pubDate> . date("Y/m/d", filemtime($file)) . '</pubDate>';
-		$news .= '<description>' . $xml->content[0] . '</description>';
+		$news .= '<description>' . htmlspecialchars($xml->content[0]) . '........... ' . strtotime(filemtime($file)) . '</description>';
 		$news .= '</item>';
 	}
 
