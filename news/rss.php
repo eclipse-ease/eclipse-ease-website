@@ -20,6 +20,7 @@
 		$news .= '<link>https://www.eclipse.org/ease/news/index.php#' . urlencode($xml->title[0]) . '</link>' . "\n";
 		$news .= '<pubDate>' . date(DATE_RSS, filemtime($file)) . '</pubDate>' . "\n";
 		$news .= '<description>' . htmlspecialchars($xml->content[0]) . '</description>' . "\n";
+		$news .= '<guid>' . md5(basename($file)) . '</guid>' . "\n";
 		$news .= '</item>' . "\n";
 	}
 
