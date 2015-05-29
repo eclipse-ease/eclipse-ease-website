@@ -3,7 +3,7 @@
 	$news = '<?xml version="1.0" encoding="UTF-8" ?>';
 	$news .= '<rss version="2.0">';
 	$news .= '<channel>';
-	$news .= '<title>W3Schools Home Page</title>';
+	$news .= '<title>Eclipse EASE</title>';
 	$news .= '<link>https://www.eclipse.org/ease/news</link>';
 	$news .= '<description>News feed for the Eclipse EASE framework</description>';
 
@@ -16,8 +16,9 @@
 		
 		$news .= '<item>';
 		$news .= '<title>' . $xml->title[0] . '</title>';
-		$news .= '<link></link>';
-		$news .= '<description>' . $xml->content[0] . '<br />' . date("Y/m/d", filemtime($file)) . '</description>';
+		$news .= '<link>https://www.eclipse.org/ease/news/index.php#' . urlencode($xml->title[0]) . '</link>';
+		$news .= '<pubDate> . date("Y/m/d", filemtime($file)) . '</pubDate>';
+		$news .= '<description>' . $xml->content[0] . '</description>';
 		$news .= '</item>';
 	}
 

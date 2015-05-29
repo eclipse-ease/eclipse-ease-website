@@ -1,4 +1,7 @@
-<?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
+<?php  		
+
+
+																												require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
 	$pageTitle 		= "EASE News";
 	$pageKeywords	= "Eclipse, EASE, Scripting";
 	$pageAuthor		= "Christian Pontesegger";
@@ -13,6 +16,7 @@
 		$xml = simplexml_load_file($file);
 		
 		$news .= '<dt><i class="fa fa-fw ' . $xml->icon[0] . ' bullet"></i>';
+		$news .= '<a href="#"' . urlencode($xml->title[0]) . '" />';
 		$news .= $xml->title[0];
 		$news .= '</dt>';
 		$news .= '<dd>' . $xml->content[0];
