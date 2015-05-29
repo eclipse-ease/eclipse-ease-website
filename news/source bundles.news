@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<news>
+	<title>Added source bundles to update site</title>
+	<icon>fa-file-text-o</icon>
+	<content>The nightly update site now contains source bundles for you developers out there. From the next release onwards also the release site will contain these bundles.</content>
+</news>
