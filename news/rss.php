@@ -4,7 +4,7 @@
 	$news .= '<rss version="2.0">' . "\n";
 	$news .= '<channel>' . "\n";
 	$news .= '<title>Eclipse EASE</title>' . "\n";
-	$news .= '<link href="https://www.eclipse.org/ease/news/rss.php" rel="self" type="application/rss+xml" />' . "\n";
+	$news .= '<link href="https://www.eclipse.org/ease/news/" />' . "\n";
 	$news .= '<description>News feed for the Eclipse EASE framework</description>' . "\n";
 	$news .= '<language>en</language>' . "\n";
 
