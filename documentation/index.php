@@ -17,6 +17,12 @@
 	  <li><a href="https://wiki.eclipse.org/EASE/Modules">Provided modules</a></li>
 	  </ul>
 	</p>
+	<h3><i class="fa fa-fw fa-book"></i> Presentations</h3>
+	<p>
+      <ul class="nobullet">
+	  <li><a href="presentations/eclipsecon_europe_2015/index.html">EclipseCon Europe 2015</a></li>
+	  </ul>
+	</p>
 </div>
 
 {$incubation}
