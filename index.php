@@ -8,7 +8,7 @@
 	$html = <<<EOHTML
 
 <div id="midcolumn">
-	<h3>EASE</h3>
+	<h3><img src="/ease/images/ease_logo_32.png" /> EASE</h3>
 	<br/>
 	<a href="http://projects.eclipse.org/projects/technology.ease">About This Project</a>
 
