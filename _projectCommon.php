@@ -38,7 +38,7 @@
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	$Nav->setLinkList(array());
 
-	$Nav->addNavSeparator("<i>test</i> EASE",		"/ease/");
+	$Nav->addNavSeparator("<img src="/ease/images/ease_logo_32.png" /> EASE",		"/ease/");
 	$Nav->addCustomNav("Download",		"/ease/download/", "_self", 3);
 	$Nav->addCustomNav("Documentation",	"/ease/documentation/", "_self", 3);
 	$Nav->addCustomNav("Support",		"/ease/support/", "_self", 3);
