@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<news>
+	<title>EASE v0.3.0 released</title>
+	<icon>fa-download</icon>
+	<content>After quite a while the brand new v0.3.0 release is ready. Among new modules we improved python installation support, added a framework for code completion and improved support for user script repositories.
+	Get it from the &lt;a href=&quot;/ease/download&quot;&gt;download section&lt;/a&gt;.
+	&lt;a href=&quot;https://bugs.eclipse.org/bugs/buglist.cgi?bug_status=CLOSED&classification=Technology&list_id=14382242&product=Ease&query_format=advanced&resolution=FIXED&quot;&gt;See all changes on bugzilla.&lt;/a&gt;.
+	</content>
+	
+</news>
