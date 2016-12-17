@@ -21,6 +21,7 @@
 	<p>
       <dl class="nobullet">
       	<dt>EclipseCon Europe 2016</dt>
+      	<dd>EASE-ily make the most of Eclipse with Python (<a href="https://youtu.be/bhhypyRAPp0">watch on youtube</a>)</dd>
       	<dd>Elevate your IDE with scripts (<a href="https://youtu.be/K9ERWs2ixZY">watch on youtube</a>)</dd>
 
       	<dt>EclipseCon France 2016</dt>
