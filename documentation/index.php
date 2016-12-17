@@ -20,11 +20,17 @@
 	<h3><i class="fa fa-fw fa-book"></i> Presentations</h3>
 	<p>
       <dl class="nobullet">
-      	<dd>EclipseCon Europe 2016</dd>
-      	<dt>Elevate your IDE with scripts (<a href="https://youtu.be/K9ERWs2ixZY">watch on youtube</a>)</dt>
+      	<dt>EclipseCon Europe 2016</dt>
+      	<dd>Elevate your IDE with scripts (<a href="https://youtu.be/K9ERWs2ixZY">watch on youtube</a>)</dd>
+
+      	<dt>EclipseCon France 2016</dt>
+      	<dd>Elevate your IDE with scripts (<a href="https://youtu.be/eWNKrPELcBw">watch on youtube</a>)</dd>
       	
-      	<dd>EclipseCon Europe 2015</dd>
-      	<dt>(slides <a href="presentations/eclipsecon_europe_2015/index.html">online</a> and <a href="presentations/eclipsecon_europe_2015.zip">zipped</a>)</dt>      	
+      	<dt>EclipseCon Europe 2015</dt>
+      	<dd>I love scripting (<a href="https://youtu.be/C15pwEBSgBA">watch on youtube</a>)</dd>
+
+      	<dt>EclipseCon Europe 2013</dt>
+      	<dd>Scripting, baby! (<a href="https://youtu.be/FQw3eNYTgfI">watch on youtube</a>)</dd>
 	  </dl>
 	</p>
 </div>
