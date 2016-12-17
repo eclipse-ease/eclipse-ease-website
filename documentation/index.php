@@ -19,9 +19,13 @@
 	</p>
 	<h3><i class="fa fa-fw fa-book"></i> Presentations</h3>
 	<p>
-      <ul class="nobullet">
-	  <li>EclipseCon Europe 2015 (<a href="presentations/eclipsecon_europe_2015/index.html">online</a>, <a href="presentations/eclipsecon_europe_2015.zip">download zip</a>)</li>
-	  </ul>
+      <dl class="nobullet">
+      	<dd>EclipseCon Europe 2016</dd>
+      	<dt>Elevate your IDE with scripts (<a href="https://youtu.be/K9ERWs2ixZY">watch on youtube</a>)</dt>
+      	
+      	<dd>EclipseCon Europe 2015</dd>
+      	<dt>(slides <a href="presentations/eclipsecon_europe_2015/index.html">online</a> and <a href="presentations/eclipsecon_europe_2015.zip">zipped</a>)</dt>      	
+	  </dl>
 	</p>
 </div>
 
