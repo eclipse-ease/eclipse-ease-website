@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<news>
+	<title>EASE v0.4.0 released</title>
+	<icon>fa-download</icon>
+	<content>We just released v0.4.0 for you. Installation for external engines now works automatically. No need to register external update sites anymore.
+	Further we improved the keyword mechanism further and provide a Property page to change those keywords.
+	Get it from the &lt;a href=&quot;/ease/download&quot;&gt;download section&lt;/a&gt;. See &lt;a href=&quot;https://bugs.eclipse.org/bugs/buglist.cgi?bug_status=CLOSED&amp;classification=Technology&amp;list_id=14382242&amp;product=Ease&amp;query_format=advanced&amp;resolution=FIXED&amp;version=0.3.0&quot;&gt;all changes on bugzilla.&lt;/a&gt;.</content>
+</news>
