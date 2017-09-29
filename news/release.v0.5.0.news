@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<news>
+	<title>EASE v0.5.0 released</title>
+	<icon>fa-download</icon>
+	<content>We just released v0.5.0 for you. Besides a lot of bugfixes we now support Py4J to connect with external python interpreters. Further we vastly improved the unit test framework which now also supports python tests.
+	Get it from the &lt;a href=&quot;/ease/download&quot;&gt;download section&lt;/a&gt;. See &lt;a href=&quot;https://bugs.eclipse.org/bugs/buglist.cgi?bug_status=CLOSED&amp;classification=Technology&amp;list_id=14382242&amp;product=Ease&amp;query_format=advanced&amp;resolution=FIXED&amp;version=0.4.0&quot;&gt;all changes on bugzilla.&lt;/a&gt;.</content>
+</news>
