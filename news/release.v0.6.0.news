@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<news>
+	<title>EASE v0.6.0 released</title>
+	<icon>fa-download</icon>
+	<content>EASE v0.6.0 is out! We spent lots of effort on the debugger framework which we improved a lot. New features there are available for Rhino so far. Now the work continues for python engines. You now also get improved documentation and some UI improvements for the script shell. 
+	Get it from the &lt;a href=&quot;/ease/download&quot;&gt;download section&lt;/a&gt;. See &lt;a href=&quot;https://bugs.eclipse.org/bugs/buglist.cgi?bug_status=CLOSED&amp;classification=Technology&amp;list_id=14382242&amp;product=Ease&amp;query_format=advanced&amp;resolution=FIXED&amp;version=0.5.0&quot;&gt;all changes on bugzilla.&lt;/a&gt;.</content>
+</news>
