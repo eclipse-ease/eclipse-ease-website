@@ -61,14 +61,14 @@
 
 		<tr>
 			<th>2019-06</th>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.build.core/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.build.core/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><icon>fa-check</icon></td>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td><icon>fa-times</icon></td>
 		</tr>
 
 		<tr>
@@ -85,7 +85,7 @@
 
 		<tr>
 			<th>2018-12</th>
-			<td></td>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-12/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-12/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -97,7 +97,7 @@
 
 		<tr>
 			<th>2018-09</th>
-			<td></td>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-09/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-09/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -109,7 +109,7 @@
 
 		<tr>
 			<th>Photon</th>
-			<td></td>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.photon/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.photon/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -121,7 +121,7 @@
 
 		<tr>
 			<th>Oxygen</th>
-			<td></td>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.oxygen/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.oxygen/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -133,7 +133,7 @@
 
 		<tr>
 			<th>Neon</th>
-			<td></td>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.neon/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.neon/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -145,7 +145,7 @@
 
 		<tr>
 			<th>Mars</th>
-			<td></td>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.mars/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.mars/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -157,7 +157,7 @@
 
 		<tr>
 			<th>Luna</th>
-			<td></td>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.luna/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.luna/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td></td>
 			<td></td>
 			<td></td>
