@@ -43,6 +43,131 @@
 		<li><i class="fa fa-fw icon-link bullet"></i>			
 			p2 Repository for offline installation: <a href=" http://eclipse.org/downloads/download.php?file=/ease/release/ease-p2-v0.1.0.zip">EASE v0.1.0</a></li>
 	</ul>
+
+	<p>Compatibility:</p>
+
+	<table>
+		<tr>
+			<th><sub>Target</sub>/<sup>EASE</sup></th>
+			<th>Nightly</th>
+			<th>0.7</th>
+			<th>0.6</th>
+			<th>0.5</th>
+			<th>0.4</th>
+			<th>0.3</th>
+			<th>0.2</th>
+			<th>0.1</th>
+		</tr>
+
+		<tr>
+			<th>2019-06</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>2019-03</th>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-03/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-03/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>2018-12</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>2018-09</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>Photon</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>Oxygen</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>Neon</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>Mars</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>Luna</th>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+	</table>
 		
 </div>
 
