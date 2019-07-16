@@ -62,13 +62,13 @@
 		<tr>
 			<th>2019-06</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.build.core/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.build.core/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><icon>fa-check</icon></td>
+			<td><i class="fas fa-check"></i></td>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
-			<td><icon>fa-times</icon></td>
+			<td><i class="fas fa-times"></i></td>
 		</tr>
 
 		<tr>
