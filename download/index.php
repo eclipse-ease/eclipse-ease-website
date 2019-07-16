@@ -46,7 +46,7 @@
 
 	<p>Compatibility:</p>
 
-	<table class="download">
+	<table id="compatibility">
 		<tr>
 			<th><sub>Target</sub>/<sup>EASE</sup></th>
 			<th>Nightly</th>
@@ -62,13 +62,13 @@
 		<tr>
 			<th>2019-06</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.build.core/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.build.core/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><i class="fas fa-check"></i></td>
+			<td><i class="fa fa-check"></i></td>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
-			<td><i class="fas fa-times"></i></td>
+			<td><i class="fa fa-times"></i></td>
 		</tr>
 
 		<tr>
