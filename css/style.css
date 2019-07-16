@@ -72,3 +72,20 @@ ul.nobullet {
 .p2site:hover {
 	color: rgb(247, 148, 30);
 }
+
+.download table {
+	border: 1px solid grey;
+}
+
+.download th {
+	border: 1px solid grey;
+	padding: 8px;
+}
+
+.download tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+.download tr:hover {
+	background-color: #dddddd;
+}

@@ -46,17 +46,17 @@
 
 	<p>Compatibility:</p>
 
-	<table>
+	<table class="download">
 		<tr>
 			<th><sub>Target</sub>/<sup>EASE</sup></th>
 			<th>Nightly</th>
-			<th>0.7</th>
-			<th>0.6</th>
-			<th>0.5</th>
-			<th>0.4</th>
-			<th>0.3</th>
-			<th>0.2</th>
-			<th>0.1</th>
+			<th>0.7.0</th>
+			<th>0.6.0</th>
+			<th>0.5.0</th>
+			<th>0.4.0</th>
+			<th>0.3.0</th>
+			<th>0.2.0</th>
+			<th>0.1.0</th>
 		</tr>
 
 		<tr>
