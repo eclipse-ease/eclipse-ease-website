@@ -73,19 +73,33 @@ ul.nobullet {
 	color: rgb(247, 148, 30);
 }
 
-#compatibility table {
+#compatibility {
 	border: 1px solid grey;
 }
 
-.download th {
+#compatibility td {
+    border: 1px solid grey;
+    padding: 5px;
+    text-align: center;
+}
+
+#compatibility th {
 	border: 1px solid grey;
 	padding: 8px;
 }
 
-.download tr:nth-child(even) {
+#compatibility tr:nth-child(even) {
 	background-color: #f2f2f2;
 }
 
-.download tr:hover {
+#compatibility tr:hover {
 	background-color: #dddddd;
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
 }
