@@ -62,7 +62,7 @@
 		<tr>
 			<th>2019-06</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.build.core/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.build.core/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><i class="fa fa-check green"></i></td>
+			<td><span title="Verified version"><i class="fa fa-star green"><span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -74,7 +74,7 @@
 		<tr>
 			<th>2019-03</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-03/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-03/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><i class="fa fa-check green"></td>
+			<td><span title="Verified version"><i class="fa fa-star green"><span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -86,7 +86,7 @@
 		<tr>
 			<th>2018-12</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-12/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-12/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><i class="fa fa-check green"></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green"><span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -98,7 +98,7 @@
 		<tr>
 			<th>2018-09</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-09/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-09/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><i class="fa fa-check green"></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green"><span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -110,7 +110,7 @@
 		<tr>
 			<th>Photon</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.photon/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.photon/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><i class="fa fa-check green"></td>
+			<td><span title="Verified version"><i class="fa fa-star green"><span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -122,9 +122,9 @@
 		<tr>
 			<th>Oxygen</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.oxygen/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.oxygen/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><i class="fa fa-check green"></td>
-			<td><i class="fa fa-check green"></td>
-			<td><i class="fa fa-check green"></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green"><span></td>
+			<td><span title="Verified version"><i class="fa fa-star green"><span></td>
+			<td><span title="Verified version"><i class="fa fa-star green"><span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -134,10 +134,10 @@
 		<tr>
 			<th>Neon</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.neon/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.neon/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><i class="fa fa-check green"></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green"><span></td>
 			<td></td>
 			<td></td>
-			<td><i class="fa fa-check green"></td>
+			<td><span title="Verified version"><i class="fa fa-star green"><span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -146,11 +146,11 @@
 		<tr>
 			<th>Mars</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.mars/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.mars/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><i class="fa fa-times red"></i></td>
+			<td><span title="Not supported"><i class="fa fa-times red"><span></td>
 			<td></td>
 			<td></td>
 			<td></td>
-			<td><i class="fa fa-check green"></td>
+			<td><span title="Verified version"><i class="fa fa-star green"><span></td>
 			<td></td>
 			<td></td>
 		</tr>
@@ -158,12 +158,12 @@
 		<tr>
 			<th>Luna</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.luna/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.luna/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><i class="fa fa-times red"></i></td>
+			<td><span title="Not supported"><i class="fa fa-times red"><span></td>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
-			<td><i class="fa fa-check green"></td>
+			<td><span title="Verified version"><i class="fa fa-star green"><span></td>
 			<td><span title="Verified version"><i class="fa fa-star green"><span></td>
 		</tr>
 
