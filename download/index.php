@@ -164,7 +164,7 @@
 			<td></td>
 			<td></td>
 			<td><i class="fa fa-check green"></td>
-			<td><i class="fa fa-check green"></td>
+			<td><span title="Verified version"><i class="fa fa-star green"><span></td>
 		</tr>
 
 	</table>
