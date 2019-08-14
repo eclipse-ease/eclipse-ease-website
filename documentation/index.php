@@ -20,6 +20,13 @@
 	<h3><i class="fa fa-fw fa-book"></i> Presentations</h3>
 	<p>
       <dl class="nobullet">
+      	<dt>EclipseCon Europe 2018</dt>
+      	<dd>EASEy IDE extensions without Plugins (<a href="https://youtu.be/HfRMQ3oDs-g</a>)</dd>
+      	<dd>SysBox: An Eclipse Story (<a href="https://youtu.be/HfRMQ3oDs-g</a>)</dd>
+
+      	<dt>EclipseCon Europe 2017</dt>
+      	<dd>And the people said, "Let there be scripts" (<a href="https://youtu.be/r7SSf5DMihQ</a>)</dd>
+
       	<dt>EclipseCon Europe 2016</dt>
       	<dd>EASE-ily make the most of Eclipse with Python (<a href="https://youtu.be/bhhypyRAPp0">watch on youtube</a>)</dd>
       	<dd>Elevate your IDE with scripts (<a href="https://youtu.be/K9ERWs2ixZY">watch on youtube</a>)</dd>
