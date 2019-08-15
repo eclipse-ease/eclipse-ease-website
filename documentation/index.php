@@ -21,11 +21,11 @@
 	<p>
       <dl class="nobullet">
       	<dt>EclipseCon Europe 2018</dt>
-      	<dd>EASEy IDE extensions without Plugins (<a href="https://youtu.be/HfRMQ3oDs-g>watch on youtube</a>)</dd>
-      	<dd>SysBox: An Eclipse Story (<a href="https://youtu.be/0B2sttEdHio>watch on youtube</a>)</dd>
+      	<dd>EASEy IDE extensions without Plugins (<a href="https://youtu.be/HfRMQ3oDs-g">watch on youtube</a>)</dd>
+      	<dd>SysBox: An Eclipse Story (<a href="https://youtu.be/0B2sttEdHio">watch on youtube</a>)</dd>
 
       	<dt>EclipseCon Europe 2017</dt>
-      	<dd>And the people said, "Let there be scripts" (<a href="https://youtu.be/r7SSf5DMihQ>watch on youtube</a>)</dd>
+      	<dd>And the people said, "Let there be scripts" (<a href="https://youtu.be/r7SSf5DMihQ">watch on youtube</a>)</dd>
 
       	<dt>EclipseCon Europe 2016</dt>
       	<dd>EASE-ily make the most of Eclipse with Python (<a href="https://youtu.be/bhhypyRAPp0">watch on youtube</a>)</dd>
