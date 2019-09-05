@@ -27,6 +27,7 @@
 	  <li><a href="http://codeandme.blogspot.com/2015/05/unit-testing-with-scripts-in-ease.html">Unit Testing with scripts in EASE</a></li>
 	  <li><a href="http://codeandme.blogspot.com/2015/04/live-charting-with-ease.html">Live charting with EASE</a></li>
 	  <li><a href="http://codeandme.blogspot.com/2014/12/ease-scripts-conquer-ui.html">EASE scripts conquer the UI</a></li>
+	  <li><a href="https://opensource.com/life/16/2/how-use-python-hack-your-ide">How to use Python to hack your Eclipse IDE</a></li>
 	  <li><a href="https://rage5474.github.io/2017/01/08/Eclipse-Scripting-Basics-EASE.html">Eclipse Scripting Basics (EASE)</a></li>
 	  <li><a href="http://codeandme.blogspot.com/p/blog-page_47.html">A new script engine for EASE</a></li>
 	  <li><a href="http://codeandme.blogspot.com/2014/10/writing-modules-for-ease.html">Writing modules for EASE</a></li>
