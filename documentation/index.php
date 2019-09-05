@@ -18,16 +18,15 @@
 	  </ul>
 	</p>
 	<h3><i class="fa fa-fw fa-video-camera"></i> Presentations</h3>
-	<p>
-      <dl class="nobullet">
-      	<dt>EASEy IDE extensions without Plugins</dt>
+	<p class="documentation">
+      <dl>
+      	<dt><span title="Eclipse EASE allows you to extend the IDE by writing scripts in Javascript, Python or Groovy without having to create a Plugin. No compilation and restarts needed, the changes to your scripts are immediately working in the running IDE.">EASEy IDE extensions without Plugins</a></dt>
       	<dd>
-      		<p>Eclipse EASE allows you to extend the IDE by writing scripts in Javascript, Python or Groovy without having to create a Plugin. No compilation and restarts needed, the changes to your scripts are immediately working in the running IDE.</p>
 			<p>I will show how to get started with Eclipse EASE and give a short overview of the possibilities. The talk will be concluded with examples of real world scripts which I am using in our IDE to make day-to-day development tasks easier.</p>
 
-      		Speaker: Rabea Gransberger<br />
-      		Location: EclipseCon Europe 2018<br />
-      		<i class="fa fa-video-camera"> <a href="https://youtu.be/HfRMQ3oDs-g">watch on youtube</a> 
+      		<i class="fa fa-user">Speaker:</i> Rabea Gransberger<br />
+      		<i class="fa fa-globe">Location:</i> EclipseCon Europe 2018<br />
+      		<i class="fa fa-video-camera"></i> <a href="https://youtu.be/HfRMQ3oDs-g">watch on youtube</a> 
       	</dd>
       	
       	<dt>EclipseCon Europe 2019</dt>

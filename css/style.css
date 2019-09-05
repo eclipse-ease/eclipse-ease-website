@@ -62,12 +62,12 @@ ul.nobullet {
 
 
 /* documentation site formatting */
-dt {
+.documentation dt {
 	margin-top: 10px;
 }
 
-dd {
-	padding-left: 20px;
+.documentation dd {
+	padding-left: 50px;
 }
 
 /* update site formatting */
