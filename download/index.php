@@ -10,38 +10,21 @@
 <div id="midcolumn">
 	<h3><i class="fa fa-fw fa-download"></i> Download</h3>
 	
-	<p>Installing the Latest Release</p>
+	<p>Releases:</p>
 	<ul class="nobullet">
 		<li><i class="fa fa-fw icon-link bullet"></i>			
-			The latest release is v0.6.0 (see Release Notes)</li>
+			Latest: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/release/latest');">http://download.eclipse.org/ease/release/latest</span></li>
 		<li><i class="fa fa-fw icon-link bullet"></i>			
-			Main update site: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/update/release');">http://download.eclipse.org/ease/update/release</span> (recommended)</li>
+			Dedicated releases: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/release');">http://download.eclipse.org/ease/release</span></li>
 		<li><i class="fa fa-fw icon-link bullet"></i>			
-			p2 Repository for offline installation: <a href=" http://eclipse.org/downloads/download.php?file=/ease/release/ease-p2-v0.6.0.zip">EASE v0.6.0</a></li>
+			Offline zips: <a href="http://download.eclipse.org/ease/release/offline">http://download.eclipse.org/ease/release/offline</a></li>
 	</ul>
 		
-	<p>Nightly builds:</p>
+	<p>Integration builds:</p>
 
 	<ul class="nobullet">
 		<li><i class="fa fa-fw icon-link bullet"></i>
-			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/update/nightly');">http://download.eclipse.org/ease/update/nightly</span></li>
-	</ul>
-
-	<p>Older releases:</p>
-
-	<ul class="nobullet">
-		<li><i class="fa fa-fw icon-link bullet"></i>
-			Release update sites will accumulate releases, so older versions can be obtained from the p2 release update sites directly.</li>
-		<li><i class="fa fa-fw icon-link bullet"></i>			
-			p2 Repository for offline installation: <a href=" http://eclipse.org/downloads/download.php?file=/ease/release/ease-p2-v0.5.0.zip">EASE v0.5.0</a></li>
-		<li><i class="fa fa-fw icon-link bullet"></i>			
-			p2 Repository for offline installation: <a href=" http://eclipse.org/downloads/download.php?file=/ease/release/ease-p2-v0.4.0.zip">EASE v0.4.0</a></li>
-		<li><i class="fa fa-fw icon-link bullet"></i>			
-			p2 Repository for offline installation: <a href=" http://eclipse.org/downloads/download.php?file=/ease/release/ease-p2-v0.3.0.zip">EASE v0.3.0</a></li>
-		<li><i class="fa fa-fw icon-link bullet"></i>			
-			p2 Repository for offline installation: <a href=" http://eclipse.org/downloads/download.php?file=/ease/release/ease-p2-v0.2.0.zip">EASE v0.2.0</a></li>
-		<li><i class="fa fa-fw icon-link bullet"></i>			
-			p2 Repository for offline installation: <a href=" http://eclipse.org/downloads/download.php?file=/ease/release/ease-p2-v0.1.0.zip">EASE v0.1.0</a></li>
+			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/integration/nightly');">http://download.eclipse.org/ease/integration/nightly</span></li>
 	</ul>
 
 	<p>Compatibility:</p>

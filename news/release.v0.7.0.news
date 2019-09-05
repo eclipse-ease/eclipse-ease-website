@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<news>
+	<title>EASE v0.7.0 released</title>
+	<icon>fa-download</icon>
+	<content>EASE v0.7.0 is out!
+	With this new version we upgraded JavaScript Rhino and now support ECMA script 6. Py4J also got upgraded to the latest version for some bugfixes.
+	A major new feature is the &lt;a href=&quot;http://codeandme.blogspot.com/2019/07/building-uis-with-ease.html&quot;&gt;UI Builder module&lt;/a&gt;.
+
+	Get it from the &lt;a href=&quot;/ease/download&quot;&gt;download section&lt;/a&gt;. See &lt;a href=&quot;https://bugs.eclipse.org/bugs/buglist.cgi?bug_status=CLOSED&amp;classification=Technology&amp;list_id=14382242&amp;product=Ease&amp;query_format=advanced&amp;resolution=FIXED&amp;version=0.7.0&quot;&gt;all changes on bugzilla.&lt;/a&gt;.</content>
+</news>
