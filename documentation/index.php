@@ -27,6 +27,9 @@
       	<dt>EclipseCon Europe 2017</dt>
       	<dd>And the people said, "Let there be scripts" (<a href="https://youtu.be/r7SSf5DMihQ">watch on youtube</a>)</dd>
 
+      	<dt>EclipseCon France 2017</dt>
+      	<dd><i class="fa fa-video-camera"></i>How EASE unleashes the scientific power of Airbus' engineers in Eclipse (<a href="https://www.youtube.com/watch?v=4ZkV3MDxabc">watch on youtube</a>)</dd>
+
       	<dt>EclipseCon Europe 2016</dt>
       	<dd>EASE-ily make the most of Eclipse with Python (<a href="https://youtu.be/bhhypyRAPp0">watch on youtube</a>)</dd>
       	<dd>Elevate your IDE with scripts (<a href="https://youtu.be/K9ERWs2ixZY">watch on youtube</a>)</dd>

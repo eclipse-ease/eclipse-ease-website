@@ -61,6 +61,14 @@ ul.nobullet {
 }
 
 
+/* documentation site formatting */
+dt {
+	margin-top: 10px;
+}
+
+dd {
+	padding-left: 20px;
+}
 
 /* update site formatting */
 .p2site {
