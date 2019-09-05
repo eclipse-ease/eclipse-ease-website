@@ -8,22 +8,22 @@
 	$html = <<<EOHTML
 
 <div id="midcolumn">
-	<h3><i class="fa fa-fw fa-download"></i> Download</h3>
+	<h3><i class="fa fa-download"></i> Download</h3>
 	
 	<p>Releases:</p>
 	<ul class="nobullet">
-		<li><i class="fa fa-fw icon-link bullet"></i>			
+		<li><i class="fa fa-download"></i>			
 			Latest: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/release/latest');">http://download.eclipse.org/ease/release/latest</span></li>
-		<li><i class="fa fa-fw icon-link bullet"></i>			
-			Dedicated releases: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/release');">http://download.eclipse.org/ease/release</span></li>
-		<li><i class="fa fa-fw icon-link bullet"></i>			
+		<li><i class="fa fa-link"></i>			
+			Dedicated releases: <a href="http://download.eclipse.org/ease/release">http://download.eclipse.org/ease/release</a></li>
+		<li><i class="fa fa-link"></i>			
 			Offline zips: <a href="http://download.eclipse.org/ease/release/offline">http://download.eclipse.org/ease/release/offline</a></li>
 	</ul>
 		
 	<p>Integration builds:</p>
 
 	<ul class="nobullet">
-		<li><i class="fa fa-fw icon-link bullet"></i>
+		<li><i class="fa fa-download"></i>			
 			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/integration/nightly');">http://download.eclipse.org/ease/integration/nightly</span></li>
 	</ul>
 
