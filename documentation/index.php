@@ -17,6 +17,23 @@
 	  <li><a href="https://wiki.eclipse.org/EASE/Modules">Provided modules</a></li>
 	  </ul>
 	</p>
+
+	<h3><i class="fa fa-fw fa-globe"></i> Blog posts</h3>
+	<p>
+      <ul class="nobullet">
+	  <li><a href="http://versatic.net/tracecompass/introducingEase.html">Trace Compass Scripting: Empowering Users With Their Trace Data Analysis</a></li>
+	  <li><a href="http://codeandme.blogspot.com/search?q=ease&max-results=20&by-date=true">Building UIs with EASE</a></li>
+	  <li><a href="https://kichwacoders.com/2015/10/04/launching-with-ease/">Launching with EASE</a></li>
+	  <li><a href="http://codeandme.blogspot.com/2015/05/unit-testing-with-scripts-in-ease.html">Unit Testing with scripts in EASE</a></li>
+	  <li><a href="http://codeandme.blogspot.com/2015/04/live-charting-with-ease.html">Live charting with EASE</a></li>
+	  <li><a href="http://codeandme.blogspot.com/2014/12/ease-scripts-conquer-ui.html">EASE scripts conquer the UI</a></li>
+	  <li><a href="https://rage5474.github.io/2017/01/08/Eclipse-Scripting-Basics-EASE.html">Eclipse Scripting Basics (EASE)</a></li>
+	  <li><a href="http://codeandme.blogspot.com/p/blog-page_47.html">A new script engine for EASE</a></li>
+	  <li><a href="http://codeandme.blogspot.com/2014/10/writing-modules-for-ease.html">Writing modules for EASE</a></li>
+	  <li><a href="https://jaxenter.de/eclipse-ease-scripting-fur-alle-891">(german) Eclipse EASE: Scripting für alle!</a></li>
+	  </ul>
+	</p>
+
 	<h3><i class="fa fa-fw fa-video-camera"></i> Presentations</h3>
 	<p class="documentation">
       <dl>
@@ -24,9 +41,9 @@
       	<dd>
 			<p>I will show how to get started with Eclipse EASE and give a short overview of the possibilities. The talk will be concluded with examples of real world scripts which I am using in our IDE to make day-to-day development tasks easier.</p>
 
-      		<i class="fa fa-fw fa-user"></i><b>Speaker:</b> Rabea Gransberger<br />
-      		<i class="fa fa-globe"></i><b>Location:</b> EclipseCon Europe 2018<br />
-      		<i class="fa fa-video-camera"></i> <a href="https://youtu.be/HfRMQ3oDs-g">watch on youtube</a> 
+      		<i class="fa fa-fw fa-user"></i> <b>Speaker:</b> Rabea Gransberger<br />
+      		<i class="fa fa-fw fa-globe"></i> <b>Location:</b> EclipseCon Europe 2018<br />
+      		<i class="fa fa-fw fa-video-camera"></i> <a href="https://youtu.be/HfRMQ3oDs-g">watch on youtube</a> 
       	</dd>
       	
       	<dt>EclipseCon Europe 2019</dt>
