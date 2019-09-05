@@ -24,8 +24,8 @@
       	<dd>
 			<p>I will show how to get started with Eclipse EASE and give a short overview of the possibilities. The talk will be concluded with examples of real world scripts which I am using in our IDE to make day-to-day development tasks easier.</p>
 
-      		<i class="fa fa-fw fa-user">Speaker:</i> Rabea Gransberger<br />
-      		<i class="fa fa-globe">Location:</i> EclipseCon Europe 2018<br />
+      		<i class="fa fa-fw fa-user"></i><b>Speaker:</b> Rabea Gransberger<br />
+      		<i class="fa fa-globe"></i><b>Location:</b> EclipseCon Europe 2018<br />
       		<i class="fa fa-video-camera"></i> <a href="https://youtu.be/HfRMQ3oDs-g">watch on youtube</a> 
       	</dd>
       	
