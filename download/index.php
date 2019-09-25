@@ -43,8 +43,20 @@
 		</tr>
 
 		<tr>
-			<th>2019-06</th>
+			<th>2019-09</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.build.core/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.build.core/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>2019-06</th>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-06/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-06/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td><span title="Verified version"><i class="fa fa-star green"><span></td>
 			<td></td>
 			<td></td>
