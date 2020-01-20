@@ -21,6 +21,7 @@
 	<h3><i class="fa fa-fw fa-globe"></i> Blog posts</h3>
 	<p>
       <ul class="nobullet">
+	  <li><a href="http://versatic.net/tracecompass/scriptEngineBenchmarks.html">Trace Compass Scripting Engines Benchmarks</a></li>
 	  <li><a href="http://versatic.net/tracecompass/introducingEase.html">Trace Compass Scripting: Empowering Users With Their Trace Data Analysis</a></li>
 	  <li><a href="http://codeandme.blogspot.com/search?q=ease&max-results=20&by-date=true">Building UIs with EASE</a></li>
 	  <li><a href="https://kichwacoders.com/2015/10/04/launching-with-ease/">Launching with EASE</a></li>
