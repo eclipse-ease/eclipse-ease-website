@@ -46,6 +46,13 @@
 	<p>Developers should consider subscribing to the
 		<a href="https://dev.eclipse.org/mailman/listinfo/ease-dev" title="ease-dev Mailing List" rel="nofollow">ease-dev mailing list</a>.
 	</p>
+
+	<p>Please read the <a href="http://wiki.eclipse.org/EASE/Contributor_Guide" title="EASE Contributor Guide">Contributor Guide</a> for detailed information.</p>
+
+	<p>Big thanks to YourKit which supports open source developers with a free license for <a href="https://www.yourkit.com/java/profiler/">YourKit Java Profiler</a>. If you work on EASE topics you may apply for a free license by sending an email to <a href="mail:sales@yourkit.com">sales@yourkit.com</a>.<br />
+	<img src="https://www.yourkit.com/images/yklogo.png" />
+	</p>	 
+
 </div>
 
 {$incubation}
