@@ -24,6 +24,13 @@
 
 	<ul class="nobullet">
 		<li><i class="fa fa-download"></i>			
+			Nightly: <a href="https://ci.eclipse.org/ease/job/ease.build.module.doclet/lastSuccessfulBuild/artifact/developers/org.eclipse.ease.helpgenerator/target/ease.module.doclet.jar">ease.module.doclet.jar</a></li>
+	</ul>
+
+	<p>EASE Module doclet:</p>
+
+	<ul class="nobullet">
+		<li><i class="fa fa-download"></i>			
 			Nightly: <span class="p2site" onclick="javascript:prompt('Hit Ctrl-c to copy', 'http://download.eclipse.org/ease/integration/nightly');">http://download.eclipse.org/ease/integration/nightly</span></li>
 	</ul>
 
