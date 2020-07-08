@@ -36,6 +36,10 @@
 
 	<p>Compatibility:</p>
 
+	<p>Compatibility checks will pick up the latest nightly build and run its JUnit tests against an older target platform. This guarantees, that EASE can be installed on an older Eclipse and that its basic features are working properly. As some EASE features (mostly UI) do require newer versions of Eclipse, you might experience feature degradation on older platforms.<br />
+The matrix below is not complete. In case you do use something we do not track, please report to the mailing list, so we can update the matrix for other users.
+</p>
+
 	<table id="compatibility">
 		<tr>
 			<th><sub>Target</sub>/<sup>EASE</sup></th>
@@ -50,8 +54,20 @@
 		</tr>
 
 		<tr>
-			<th>2020-03</th>
+			<th>2020-06</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.build.core/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.build.core/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>2020-03</th>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-03/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-03/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td></td>
 			<td></td>
 			<td></td>
