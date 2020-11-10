@@ -37,7 +37,7 @@
 	<p>Compatibility:</p>
 
 	<p>Compatibility checks will pick up the latest nightly build and run its JUnit tests against an older target platform. This guarantees, that EASE can be installed on an older Eclipse and that its basic features are working properly. As some EASE features (mostly UI) do require newer versions of Eclipse, you might experience feature degradation on older platforms.<br />
-The matrix below is not complete. In case you do use something we do not track, please report to the mailing list, so we can update the matrix for other users.
+The matrix below is not complete. In case you do use something we do not track, please <a href="https://dev.eclipse.org/mailman/listinfo/ease-dev" title="ease-dev Mailing List" rel="nofollow">report to the mailing list</a>, so we can update the matrix for other users.
 </p>
 
 	<table id="compatibility">
