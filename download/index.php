@@ -54,8 +54,44 @@ The matrix below is not complete. In case you do use something we do not track, 
 		</tr>
 
 		<tr>
-			<th>2020-06</th>
+			<th>2021-03</th>
+			<td><span title="Not supported"><i class="fa fa-times red"><span><sup>1</sup></td>
+			<td><span title="Not supported"><i class="fa fa-times red"><span><sup>1</sup></td>
+			<td><span title="Not supported"><i class="fa fa-times red"><span><sup>1</sup></td>
+			<td><span title="Not supported"><i class="fa fa-times red"><span><sup>1</sup></td>
+			<td><span title="Not supported"><i class="fa fa-times red"><span><sup>1</sup></td>
+			<td><span title="Not supported"><i class="fa fa-times red"><span><sup>1</sup></td>
+			<td><span title="Not supported"><i class="fa fa-times red"><span><sup>1</sup></td>
+			<td><span title="Not supported"><i class="fa fa-times red"><span><sup>1</sup></td>
+		</tr>
+
+		<tr>
+			<th>2020-12</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.build.core/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.build.core/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>2020-09</th>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-09/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-09/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<th>2020-06</th>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-06/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-06/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -210,6 +246,8 @@ The matrix below is not complete. In case you do use something we do not track, 
 		</tr>
 
 	</table>
+	
+	1) Target platform 2021-03 does not support buddy loading reliably, see <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=572102">bug 572102</a>
 		
 </div>
 
