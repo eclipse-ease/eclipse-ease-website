@@ -54,7 +54,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 		</tr>
 
 		<tr>
-			<th>2021-03</th>
+			<th>2021-03</th>			
 			<td><span title="Not supported"><i class="fa fa-times red" /></span><sup>1</sup></td>
 			<td><span title="Not supported"><i class="fa fa-times red" /></span><sup>1</sup></td>
 			<td><span title="Not supported"><i class="fa fa-times red" /></span><sup>1</sup></td>
@@ -211,7 +211,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 
 		<tr>
 			<th>Neon</th>
-			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.neon/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.neon/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td></td>
 			<td></td>
@@ -223,7 +223,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 
 		<tr>
 			<th>Mars</th>
-			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.mars/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.mars/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td></td>
 			<td></td>
@@ -235,7 +235,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 
 		<tr>
 			<th>Luna</th>
-			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.luna/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.luna/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td></td>
 			<td></td>
