@@ -55,7 +55,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 
 		<tr>
 			<th>2021-03</th>			
-			<td colspan=8><span title="Not supported"><i class="fa fa-times red" /></span><sup>1</sup></td>
+			<td colspan=8><span title="Not supported"><i class="fa fa-times red" /></span> <sup>1</sup></td>
 		</tr>
 
 		<tr>
