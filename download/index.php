@@ -44,6 +44,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 		<tr>
 			<th><sub>Target</sub>/<sup>EASE</sup></th>
 			<th>Nightly</th>
+			<th>0.8.0</th>
 			<th>0.7.0</th>
 			<th>0.6.0</th>
 			<th>0.5.0</th>
@@ -54,13 +55,27 @@ The matrix below is not complete. In case you do use something we do not track, 
 		</tr>
 
 		<tr>
+			<th>2021-06</th>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.build.core/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.build.core/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
 			<th>2021-03</th>			
-			<td colspan=8><span title="Not supported"><i class="fa fa-times red" /></span> <sup>1</sup></td>
+			<td colspan=9><span title="Not supported"><i class="fa fa-times red" /></span> <sup>1</sup></td>
 		</tr>
 
 		<tr>
 			<th>2020-12</th>
-			<td><a href='https://ci.eclipse.org/ease/job/ease.build.core/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.build.core/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-12/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-12/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -73,6 +88,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 		<tr>
 			<th>2020-09</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-09/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-09/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -85,6 +101,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 		<tr>
 			<th>2020-06</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-06/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-06/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -97,6 +114,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 		<tr>
 			<th>2020-03</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-03/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2020-03/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -109,6 +127,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 		<tr>
 			<th>2019-12</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-12/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-12/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -121,6 +140,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 		<tr>
 			<th>2019-09</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-09/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-09/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -134,6 +154,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 			<th>2019-06</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-06/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-06/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td><span title="Verified version"><i class="fa fa-star green" /></span></td>
+			<td><span title="Verified version"><i class="fa fa-star green" /></span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -145,6 +166,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 		<tr>
 			<th>2019-03</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-03/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2019-03/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td><span title="Verified version"><i class="fa fa-star green" /></span></td>
 			<td></td>
 			<td></td>
@@ -158,6 +180,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 			<th>2018-12</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-12/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-12/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -170,6 +193,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 			<th>2018-09</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-09/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.2018-09/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -181,6 +205,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 		<tr>
 			<th>Photon</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.photon/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.photon/badge/icon?style=plastic&subject=Tests'></a></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td><span title="Verified version"><i class="fa fa-star green" /></span></td>
 			<td></td>
 			<td></td>
@@ -194,6 +219,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 			<th>Oxygen</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.verify.core.target.oxygen/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.verify.core.target.oxygen/badge/icon?style=plastic&subject=Tests'></a></td>
 			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
+			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td><span title="Verified version"><i class="fa fa-star green" /></span></td>
 			<td><span title="Verified version"><i class="fa fa-star green" /></span></td>
 			<td></td>
@@ -204,6 +230,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 
 		<tr>
 			<th>Neon</th>
+			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
 			<td></td>
@@ -218,6 +245,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 			<th>Mars</th>
 			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
+			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -228,6 +256,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 
 		<tr>
 			<th>Luna</th>
+			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td><span title="Not supported"><i class="fa fa-times red" /></span></td>
 			<td></td>
