@@ -57,7 +57,7 @@ The matrix below is not complete. In case you do use something we do not track, 
 		<tr>
 			<th>2021-09</th>
 			<td><a href='https://ci.eclipse.org/ease/job/ease.build.core/lastBuild'><img src='https://ci.eclipse.org/ease/job/ease.build.core/badge/icon?style=plastic&subject=Tests'></a></td>
-			<td><span title="UnitTests pass"><i class="fa fa-check green" /></span></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
